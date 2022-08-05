@@ -1,6 +1,8 @@
 # Crystal visualizer
 This project was born while studying solid-state Physics from standard references like Kittel and Aschroft. I found it hard to find good quality, interactive visualizations of crystalline structures on the Internet. So, I decided to create my own simulation using P5.JS, to help provide other students with intuition about crystals, their symmetries
 
+
+
 ## Features implemented
 * 3D visualization of Lattice points
 * Free configuration of lattice vectors $\mathbf{a}_i$
@@ -15,3 +17,9 @@ This project was born while studying solid-state Physics from standard reference
 * Show unit cell, primitive cell and their volume. 
 * User interface (with buttons, sliders, and colors)
 * etc.
+
+
+
+| ![lattice.png](https://user-images.githubusercontent.com/15040299/183003011-94fada0e-513f-4a4b-bf6a-a4413f57598b.png) | 
+|:--:| 
+| *Screenshot of simulation with 441 lattice points* |
