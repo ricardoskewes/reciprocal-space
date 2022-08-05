@@ -1,6 +1,5 @@
 # Crystal visualizer
-This project was born while studying solid-state Physics from standard references like Kittel and Aschroft. I found it hard to find good quality, interactive visualizations of crystalline structures on the Internet. So, I decided to create my own simulation using P5.JS, to help provide other students with intuition about crystals, their symmetries
-
+This project was born while studying solid-state Physics from standard references like Kittel and Aschroft. I found it hard to find good quality, interactive visualizations of crystalline structures on the Internet. Thus, I decided to create my own simulation (using P5.JS) to help provide intuition about the physics of crystals. 
 
 
 ## Features implemented
